@@ -23,7 +23,7 @@ La presentación ha sido desarrollada teniendo en cuenta los siguientes artícul
 
 5. [AutoML (Machine Learning para Vagos) - PyConES 2020](https://www.youtube.com/watch?v=1gLM-cM_XJ8)
 
-6. (Introduction to H20 AutoML with Python](https://www.youtube.com/watch?v=EUNHDIzSt8Q)
+6. [ntroduction to H20 AutoML with Python](https://www.youtube.com/watch?v=EUNHDIzSt8Q)
 
 7. [Introduction to H2O Driverless AI by Marios Michailidis](https://www.youtube.com/watch?v=GMtgT-3hENY)
 
