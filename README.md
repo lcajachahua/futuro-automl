@@ -4,9 +4,9 @@ Materiales del Webinar del 17-Ago-2021
 
 Puedes descargar la presentación haciendo clic derecho y eligiendo la opción "Descargar Como.." en este [ENLACE](docs/Futuro_AutoML.pdf)
 
-Y desde aquí puedes acceder a la [grabación](https://www.facebook.com/startupunioficial/) en Facebook:
+Y desde aquí puedes acceder a la [grabación](https://www.facebook.com/story.php?story_fbid=910190039846250&id=411868918962343) en Facebook:
 
-[![IMAGEN](docs/Futuro_AutoML.png)](https://www.facebook.com/startupunioficial/)
+[![IMAGEN](docs/Futuro_AutoML.png)](https://www.facebook.com/story.php?story_fbid=910190039846250&id=411868918962343)
 
 
 ## Referencias
